@@ -7,7 +7,7 @@ import Infinito from "./pages/infinitos";
 
 export default function Routes() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Switch>
                 <Route path="/" exact component={Index}></Route>
                 <Route path="/simples" component={Simples}></Route>
