@@ -1,6 +1,6 @@
 {
     "name": "redux-counter",
-    "homepage": "https://matheusalvarenga.github.io/site_counters_react_redux/",
+    "homepage": "https://matheusalvarenga.github.io/system_counters_react_redux/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
